@@ -5,4 +5,4 @@ All information in: http://www.diogonuno.com
 Currently doesn't run on Windows due to some curses based error (dunno) but runs on linux and mac. 
 It just needs Python Curses Module to run. To play run "python sudoku.py" or just run the executable file with ./sudoku.py
 
-Copyright (C) 2009 Diogo Nuno
+Copyright (C) 2010 Diogo Nuno
