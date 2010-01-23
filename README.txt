@@ -1,0 +1,8 @@
+Sudoku is a Python game that uses the Curses module to control the display.
+
+All information in: http://www.diogonuno.com
+
+Currently doesn't run on Windows due to some curses based error (dunno) but runs on linux and mac. 
+It just needs Python Curses Module to run. To play run "python sudoku.py" or just run the executable file with ./sudoku.py
+
+Copyright (C) 2009 Diogo Nuno
